@@ -1,0 +1,3 @@
+[submodule "ant"]
+	path = ant
+	url = https://github.com/masterbee/builder-ant.git
